@@ -1972,3 +1972,13 @@ Igot:
     </p>
   coins: [btc]
   location: [au, nl, an, in, sg, hk, ae]
+  
+  Coinsecure:
+  uniquename: Coinsecure
+  label: Coinsecure - Connecting India to Bitcoin!
+  countries: [in]
+  icon: https://coinsecure.in/assets/img/favicon/favicon.ico
+  url: https://coinsecure.in
+  content: Coinsecure is Indias best Bitcoin Exchange!
+  coins: [btc]
+  location: [in]
